@@ -17,10 +17,10 @@ Defs:
 
 Results:
 - MacBook Pro (14-inch, M1 Max, 2021)
-  2. 1.00 ± 0.00 xkcp
-  3. 1.02 ± 0.02 keccak-asm
-  4. 1.17 ± 0.02 sha3
-  5. 1.19 ± 0.02 tiny-keccak
+  1. 1.00 ± 0.00 xkcp
+  2. 1.02 ± 0.02 keccak-asm
+  3. 1.17 ± 0.02 sha3
+  4. 1.19 ± 0.02 tiny-keccak
 - MacBook Air (15-inch, M2, 2023)
   1. 1.00 ± 0.00 keccak-asm
   2. 1.01 ± 0.01 xkcp
